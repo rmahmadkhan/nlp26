@@ -1,0 +1,79 @@
+en/zs: 1 done, 365 to go
+ru/zs: 1 done, 365 to go
+ur/zs: 1 done, 365 to go
+estimated spend so far since 2026-11-23T17:25Z: $0.000 (cap $2.0)
+1 en/zs medmcqa-c16a9d6e-5e30-4209-94b1-1f9e8444c9c9 gold=B pred=B (bare_letter) tok=80
+2 ru/zs medmcqa-c16a9d6e-5e30-4209-94b1-1f9e8444c9c9 gold=B pred=A (bare_letter) tok=82
+3 ur/zs medmcqa-c16a9d6e-5e30-4209-94b1-1f9e8444c9c9 gold=B pred=A (bare_letter) tok=92
+4 en/zs mmlu-professional_medicine-012 gold=D pred=D (bare_letter) tok=233
+5 ur/zs mmlu-professional_medicine-012 gold=D pred=B (bare_letter) tok=176
+6 ru/zs mmlu-professional_medicine-012 gold=D pred=D (bare_letter) tok=283
+7 ru/zs medmcqa-f231bced-c88c-469e-a5e7-0442efe932a1 gold=D pred=D (bare_letter) tok=142
+8 ur/zs medmcqa-f231bced-c88c-469e-a5e7-0442efe932a1 gold=D pred=D (bare_letter) tok=153
+9 en/zs medmcqa-f231bced-c88c-469e-a5e7-0442efe932a1 gold=D pred=D (bare_letter) tok=108
+10 ru/zs bioasq-5c7019557c78d6947100005f gold=A pred=A (bare_letter) tok=73
+11 en/zs bioasq-5c7019557c78d6947100005f gold=A pred=A (bare_letter) tok=67
+12 en/zs medmcqa-cda9b8dd-1c5b-4b7d-b08c-8e959ab72415 gold=B pred=B (bare_letter) tok=88
+13 ur/zs bioasq-5c7019557c78d6947100005f gold=A pred=A (bare_letter) tok=76
+14 ru/zs medmcqa-cda9b8dd-1c5b-4b7d-b08c-8e959ab72415 gold=B pred=B (bare_letter) tok=100
+15 en/zs medqa-0620 gold=C pred=C (bare_letter) tok=152
+16 ur/zs medqa-0620 gold=C pred=C (bare_letter) tok=179
+17 ru/zs medqa-0620 gold=C pred=C (bare_letter) tok=181
+18 en/zs medmcqa-5bb71e79-6495-4b29-a2b4-8af6d9fb4d86 gold=D pred=A (bare_letter) tok=80
+19 ur/zs medmcqa-cda9b8dd-1c5b-4b7d-b08c-8e959ab72415 gold=B pred=D (bare_letter) tok=109
+20 ur/zs medmcqa-5bb71e79-6495-4b29-a2b4-8af6d9fb4d86 gold=D pred=D (bare_letter) tok=95
+21 en/zs pubmedqa-24625433 gold=B pred=B (bare_letter) tok=74
+22 ru/zs pubmedqa-24625433 gold=B pred=B (bare_letter) tok=82
+23 ur/zs pubmedqa-24625433 gold=B pred=B (bare_letter) tok=87
+24 en/zs medmcqa-ec6967c1-a9cd-4905-966d-9c9b7bb5a8f2 gold=B pred=B (bare_letter) tok=103
+25 ru/zs medmcqa-ec6967c1-a9cd-4905-966d-9c9b7bb5a8f2 gold=B pred=B (bare_letter) tok=113
+26 ru/zs medmcqa-5bb71e79-6495-4b29-a2b4-8af6d9fb4d86 gold=D pred=D (bare_letter) tok=84
+27 ur/zs medmcqa-ec6967c1-a9cd-4905-966d-9c9b7bb5a8f2 gold=B pred=C (bare_letter) tok=122
+28 en/zs medmcqa-d2f3fa53-c024-4179-bf34-169fd7b99fc9 gold=D pred=D (bare_letter) tok=84
+  [429] retry 1/8 in 35s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+29 ru/zs medmcqa-d2f3fa53-c024-4179-bf34-169fd7b99fc9 gold=D pred=D (bare_letter) tok=92
+  [429] retry 1/8 in 34s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+  [429] retry 1/8 in 31s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+  [429] retry 1/8 in 31s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+30 ru/zs pubmedqa-17342562 gold=B pred=A (bare_letter) tok=92
+  [429] retry 1/8 in 29s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+  [429] retry 1/8 in 26s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+31 ru/zs bioasq-5e44c59848dab47f26000021 gold=B pred=B (bare_letter) tok=74
+  [429] retry 1/8 in 25s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+32 en/zs pubmedqa-17342562 gold=B pred=A (bare_letter) tok=74
+33 en/zs medmcqa-396aa135-c5be-44f3-908c-b1e15116438f gold=B pred=C (bare_letter) tok=100
+34 ru/zs medmcqa-396aa135-c5be-44f3-908c-b1e15116438f gold=B pred=C (bare_letter) tok=104
+35 ur/zs medmcqa-396aa135-c5be-44f3-908c-b1e15116438f gold=B pred=B (bare_letter) tok=117
+36 en/zs medmcqa-a861b551-1fc4-4b04-a719-def8b4d7810e gold=B pred=B (bare_letter) tok=97
+37 ru/zs medmcqa-a861b551-1fc4-4b04-a719-def8b4d7810e gold=B pred=C (bare_letter) tok=108
+38 ur/zs medmcqa-a861b551-1fc4-4b04-a719-def8b4d7810e gold=B pred=C (bare_letter) tok=108
+39 en/zs medmcqa-cab5a741-ed81-4223-8028-27cfb4433122 gold=D pred=D (bare_letter) tok=84
+40 ru/zs medmcqa-cab5a741-ed81-4223-8028-27cfb4433122 gold=D pred=D (bare_letter) tok=100
+41 ur/zs medmcqa-cab5a741-ed81-4223-8028-27cfb4433122 gold=D pred=D (bare_letter) tok=102
+42 en/zs bioasq-5c6d9a157c78d69471000041 gold=A pred=A (bare_letter) tok=78
+43 ru/zs bioasq-620586a8c9dfcb9c09000032 gold=A pred=B (bare_letter) tok=73
+44 ru/zs bioasq-5c6d9a157c78d69471000041 gold=A pred=A (bare_letter) tok=89
+45 ur/zs bioasq-620586a8c9dfcb9c09000032 gold=A pred=A (bare_letter) tok=70
+46 ur/zs bioasq-5e44c59848dab47f26000021 gold=B pred=B (bare_letter) tok=75
+47 ur/zs bioasq-5c6d9a157c78d69471000041 gold=A pred=A (bare_letter) tok=88
+48 en/zs bioasq-5e44c59848dab47f26000021 gold=B pred=A (bare_letter) tok=67
+49 ur/zs pubmedqa-17342562 gold=B pred=A (bare_letter) tok=84
+50 ur/zs medmcqa-d2f3fa53-c024-4179-bf34-169fd7b99fc9 gold=D pred=B (bare_letter) tok=100
+51 ru/zs medmcqa-149f4170-803d-4034-acb3-776c0abd48b5 gold=B pred=C (bare_letter) tok=81
+52 en/zs bioasq-620586a8c9dfcb9c09000032 gold=A pred=A (bare_letter) tok=65
+53 ur/zs medmcqa-149f4170-803d-4034-acb3-776c0abd48b5 gold=B pred=C (bare_letter) tok=83
+54 en/zs medmcqa-149f4170-803d-4034-acb3-776c0abd48b5 gold=B pred=A (bare_letter) tok=73
+55 ur/zs medmcqa-756277e4-4420-466e-adee-3aee112a7b69 gold=B pred=D (bare_letter) tok=112
+56 en/zs medmcqa-1738bd76-9a60-42d8-8a35-90cb6542d4a5 gold=C pred=C (bare_letter) tok=80
+57 en/zs medmcqa-756277e4-4420-466e-adee-3aee112a7b69 gold=B pred=D (bare_letter) tok=98
+58 ru/zs medmcqa-756277e4-4420-466e-adee-3aee112a7b69 gold=B pred=B (bare_letter) tok=118
+  [429] retry 1/8 in 50s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+  [429] retry 1/8 in 49s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+59 ru/zs medmcqa-1738bd76-9a60-42d8-8a35-90cb6542d4a5 gold=C pred=C (bare_letter) tok=86
+  [429] retry 1/8 in 47s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+  [429] retry 1/8 in 46s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+60 en/zs mmlu-medical_genetics-076 gold=C pred=C (bare_letter) tok=91
+61 en/zs medqa-0698 gold=A pred=A (bare_letter) tok=194
+  [429] retry 1/8 in 40s: {"error": {"code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: ht
+62 ur/zs medqa-0698 gold=A pred=B (bare_letter) tok=181
+63 ru/zs mmlu-medical_genetics-076 gold=C pred=C (bare_letter) tok=99

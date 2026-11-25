@@ -1,0 +1,23 @@
+en/zs: 0 done, 366 to go
+ru/zs: 0 done, 366 to go
+ur/zs: 0 done, 366 to go
+estimated spend so far since 2026-11-23T17:25Z: $0.000 (cap $2.0)
+1 en/zs medmcqa-3093a760-fb59-4adb-acf4-736f5aed7e02 gold=A pred=B (bare_letter) tok=82
+  [503] retry 1/8 in 6s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 1/8 in 5s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 1/8 in 6s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+2 ru/zs medmcqa-3093a760-fb59-4adb-acf4-736f5aed7e02 gold=A pred=A (bare_letter) tok=85
+  [503] retry 1/8 in 6s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+3 ur/zs medmcqa-3093a760-fb59-4adb-acf4-736f5aed7e02 gold=A pred=A (bare_letter) tok=102
+  [503] retry 2/8 in 11s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 2/8 in 12s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 3/8 in 20s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 3/8 in 20s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 1/8 in 6s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 2/8 in 11s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 1/8 in 6s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 4/8 in 41s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 4/8 in 42s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+  [503] retry 3/8 in 22s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"
+!! daily quota exhausted, stopping (rerun later to resume): HTTP 402 (billing/prepayment): {"error": {"code": 402, "message": "Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ", "status": "RESOURCE_EXHAUSTED"}}
+  [503] retry 2/8 in 12s: {"error": {"code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status"

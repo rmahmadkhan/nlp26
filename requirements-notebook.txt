@@ -1,0 +1,4 @@
+# Notebooks run locally (optional)
+jupyter
+nbclient==0.11.0
+ipykernel==7.4.0

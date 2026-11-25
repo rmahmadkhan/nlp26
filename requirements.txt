@@ -1,0 +1,4 @@
+# Scoring, API runs and table reproduction (tested with Python 3.13; 3.10+ should work)
+numpy==2.5.5
+scipy==1.18.1
+requests==2.34.2

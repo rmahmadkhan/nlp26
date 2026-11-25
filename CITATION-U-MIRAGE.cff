@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "U-MIRAGE: Benchmarking Chain-of-Thought Reasoning for Urdu Medical QA"
+message: "If you use this repository, please cite the associated paper."
+type: software
+authors:
+  - family-names: "Anonymous"
+    given-names: "Authors"
+repository-code: "https://github.com/AliFaheem/U-Mirage"
+license: MIT
